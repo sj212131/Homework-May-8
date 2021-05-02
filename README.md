@@ -49,6 +49,6 @@ for future reference
 You are required to submit BOTH of the following for review:
 
 - The URL of the deployed application.
-  **********************\***********************
+  https://arcane-sierra-49666.herokuapp.com/
 - The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
   https://github.com/sj212131/Homework-May-1
