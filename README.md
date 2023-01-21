@@ -1,12 +1,8 @@
-# Homework-May-8
-
-==================================================================================================
-
-## Home assignment
+# Tech-Blog-Modul
 
 Background:
 
-This is Homework due on May 8. Practice of DataBase set up, Post, Update and Create own API data. Create the user and password. Tech Blog function post, edit, delete, commend.
+DataBase set up, Post, Update and Create own API data. Create the user and password. Tech Blog function post, edit, delete, commend.
 
 ---
 
@@ -50,5 +46,3 @@ You are required to submit BOTH of the following for review:
 
 - The URL of the deployed application.
   https://arcane-sierra-49666.herokuapp.com/
-- The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-  https://github.com/sj212131/Homework-May-1
